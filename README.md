@@ -4,4 +4,4 @@ MongoDB, Express.js, React, Node.js application to store contacts.
 ### Fullstack application that allows users to keep contacts. Built with hooks and JWT token for authentication. 
 ### CRUD functionality, token auth, useContext, useState and useEffect hooks.
 #### Backend libraries: express, mongoose, jsonwebtoken etc.
-#### Frontent libraries: react-router-dom, CSSTransitionGroup etc.
+#### Frontend libraries: react-router-dom, CSSTransitionGroup, (CSS and HTML ofc :) ) etc.
